@@ -4,13 +4,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * This program is the simple dice game Pig. Two players take turns rolling a
- * single die. On each turn, a player will roll the die as many times as they
- * like, continually adding the total of the die, until they want to stop.
- * Whatever number they get to, that’s their score for the round and is added to
- * their overall total. However, if the player rolls a 1, their turn is
- * immediately over and their total for the round is returned to zero. Rounds
- * will continue until one player reaches 100 points.
  * 
  * @author Patricia Ramos
  *
